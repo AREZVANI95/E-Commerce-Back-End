@@ -1,5 +1,8 @@
 # E-COMMERCE-BACK-END  
 
+## Disclaimer 
+This application is a work in-progress, updating and submitting what I currently have will attempt this again after some feedback and during the weekend.
+
 ## Table of Contents
 
 - [Description](#description)
